@@ -1,5 +1,5 @@
 name: 4. Build Trio
-run-name: Build Trio (${{ github.ref_name }})
+run-name: Build Trio (dev)
 on:
   workflow_dispatch:
 
